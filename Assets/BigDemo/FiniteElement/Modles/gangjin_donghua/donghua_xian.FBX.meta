@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 236b49d7710067448bdc744333b1bbe0
+timeCreated: 1487051561
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: diankuai01
+    100002: diankuai02
+    100004: dianpian01
+    100006: dianpian02
+    100008: //RootNode
+    100010: gangjin_dibu01
+    100012: gangjin_dibu02
+    100014: gangjin_shangbu01
+    100016: gangjin_shangbu02
+    100018: gangjin_shangbu_r01
+    100020: gangjin_shangbu_r02
+    100022: gujin002
+    100024: gujin003
+    100026: gujin004
+    100028: gujin005
+    100030: gujin006
+    100032: gujin007
+    100034: gujin008
+    100036: gujin009
+    100038: gujin01
+    100040: gujin010
+    100042: gujin011
+    100044: gujin012
+    100046: gujin013
+    100048: gujin014
+    100050: gujin015
+    100052: gujin_r002
+    100054: gujin_r003
+    100056: gujin_r004
+    100058: gujin_r005
+    100060: gujin_r006
+    100062: gujin_r007
+    100064: gujin_r008
+    100066: gujin_r009
+    100068: gujin_r01
+    100070: gujin_r010
+    100072: gujin_r011
+    100074: gujin_r012
+    100076: gujin_r013
+    100078: gujin_r014
+    100080: gujin_r015
+    100082: liang
+    400000: diankuai01
+    400002: diankuai02
+    400004: dianpian01
+    400006: dianpian02
+    400008: //RootNode
+    400010: gangjin_dibu01
+    400012: gangjin_dibu02
+    400014: gangjin_shangbu01
+    400016: gangjin_shangbu02
+    400018: gangjin_shangbu_r01
+    400020: gangjin_shangbu_r02
+    400022: gujin002
+    400024: gujin003
+    400026: gujin004
+    400028: gujin005
+    400030: gujin006
+    400032: gujin007
+    400034: gujin008
+    400036: gujin009
+    400038: gujin01
+    400040: gujin010
+    400042: gujin011
+    400044: gujin012
+    400046: gujin013
+    400048: gujin014
+    400050: gujin015
+    400052: gujin_r002
+    400054: gujin_r003
+    400056: gujin_r004
+    400058: gujin_r005
+    400060: gujin_r006
+    400062: gujin_r007
+    400064: gujin_r008
+    400066: gujin_r009
+    400068: gujin_r01
+    400070: gujin_r010
+    400072: gujin_r011
+    400074: gujin_r012
+    400076: gujin_r013
+    400078: gujin_r014
+    400080: gujin_r015
+    400082: liang
+    2300000: diankuai01
+    2300002: diankuai02
+    2300004: dianpian01
+    2300006: dianpian02
+    2300008: gangjin_dibu01
+    2300010: gangjin_dibu02
+    2300012: gangjin_shangbu01
+    2300014: gangjin_shangbu02
+    2300016: gangjin_shangbu_r01
+    2300018: gangjin_shangbu_r02
+    2300020: gujin002
+    2300022: gujin003
+    2300024: gujin004
+    2300026: gujin005
+    2300028: gujin006
+    2300030: gujin007
+    2300032: gujin008
+    2300034: gujin009
+    2300036: gujin01
+    2300038: gujin010
+    2300040: gujin011
+    2300042: gujin012
+    2300044: gujin013
+    2300046: gujin014
+    2300048: gujin015
+    2300050: gujin_r002
+    2300052: gujin_r003
+    2300054: gujin_r004
+    2300056: gujin_r005
+    2300058: gujin_r006
+    2300060: gujin_r007
+    2300062: gujin_r008
+    2300064: gujin_r009
+    2300066: gujin_r01
+    2300068: gujin_r010
+    2300070: gujin_r011
+    2300072: gujin_r012
+    2300074: gujin_r013
+    2300076: gujin_r014
+    2300078: gujin_r015
+    2300080: liang
+    3300000: diankuai01
+    3300002: diankuai02
+    3300004: dianpian01
+    3300006: dianpian02
+    3300008: gangjin_dibu01
+    3300010: gangjin_dibu02
+    3300012: gangjin_shangbu01
+    3300014: gangjin_shangbu02
+    3300016: gangjin_shangbu_r01
+    3300018: gangjin_shangbu_r02
+    3300020: gujin002
+    3300022: gujin003
+    3300024: gujin004
+    3300026: gujin005
+    3300028: gujin006
+    3300030: gujin007
+    3300032: gujin008
+    3300034: gujin009
+    3300036: gujin01
+    3300038: gujin010
+    3300040: gujin011
+    3300042: gujin012
+    3300044: gujin013
+    3300046: gujin014
+    3300048: gujin015
+    3300050: gujin_r002
+    3300052: gujin_r003
+    3300054: gujin_r004
+    3300056: gujin_r005
+    3300058: gujin_r006
+    3300060: gujin_r007
+    3300062: gujin_r008
+    3300064: gujin_r009
+    3300066: gujin_r01
+    3300068: gujin_r010
+    3300070: gujin_r011
+    3300072: gujin_r012
+    3300074: gujin_r013
+    3300076: gujin_r014
+    3300078: gujin_r015
+    3300080: liang
+    4300000: gangjin_dibu01
+    4300002: gangjin_dibu02
+    4300004: gangjin_shangbu_r02
+    4300006: gangjin_shangbu01
+    4300008: gangjin_shangbu_r01
+    4300010: gangjin_shangbu02
+    4300012: liang
+    4300014: gujin_r01
+    4300016: gujin01
+    4300018: dianpian02
+    4300020: dianpian01
+    4300022: diankuai01
+    4300024: diankuai02
+    4300026: gujin002
+    4300028: gujin003
+    4300030: gujin004
+    4300032: gujin005
+    4300034: gujin006
+    4300036: gujin007
+    4300038: gujin008
+    4300040: gujin009
+    4300042: gujin010
+    4300044: gujin011
+    4300046: gujin012
+    4300048: gujin013
+    4300050: gujin014
+    4300052: gujin015
+    4300054: gujin_r002
+    4300056: gujin_r003
+    4300058: gujin_r004
+    4300060: gujin_r005
+    4300062: gujin_r006
+    4300064: gujin_r007
+    4300066: gujin_r008
+    4300068: gujin_r009
+    4300070: gujin_r010
+    4300072: gujin_r011
+    4300074: gujin_r012
+    4300076: gujin_r013
+    4300078: gujin_r014
+    4300080: gujin_r015
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 260
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: diankuai01
+        weight: 1
+      - path: diankuai02
+        weight: 1
+      - path: dianpian01
+        weight: 1
+      - path: dianpian02
+        weight: 1
+      - path: gangjin_dibu01
+        weight: 1
+      - path: gangjin_dibu02
+        weight: 1
+      - path: gangjin_shangbu01
+        weight: 1
+      - path: gangjin_shangbu02
+        weight: 1
+      - path: gangjin_shangbu_r01
+        weight: 1
+      - path: gangjin_shangbu_r02
+        weight: 1
+      - path: gujin01
+        weight: 1
+      - path: gujin002
+        weight: 1
+      - path: gujin003
+        weight: 1
+      - path: gujin004
+        weight: 1
+      - path: gujin005
+        weight: 1
+      - path: gujin006
+        weight: 1
+      - path: gujin007
+        weight: 1
+      - path: gujin008
+        weight: 1
+      - path: gujin009
+        weight: 1
+      - path: gujin010
+        weight: 1
+      - path: gujin011
+        weight: 1
+      - path: gujin012
+        weight: 1
+      - path: gujin013
+        weight: 1
+      - path: gujin014
+        weight: 1
+      - path: gujin015
+        weight: 1
+      - path: gujin_r01
+        weight: 1
+      - path: gujin_r002
+        weight: 1
+      - path: gujin_r003
+        weight: 1
+      - path: gujin_r004
+        weight: 1
+      - path: gujin_r005
+        weight: 1
+      - path: gujin_r006
+        weight: 1
+      - path: gujin_r007
+        weight: 1
+      - path: gujin_r008
+        weight: 1
+      - path: gujin_r009
+        weight: 1
+      - path: gujin_r010
+        weight: 1
+      - path: gujin_r011
+        weight: 1
+      - path: gujin_r012
+        weight: 1
+      - path: gujin_r013
+        weight: 1
+      - path: gujin_r014
+        weight: 1
+      - path: gujin_r015
+        weight: 1
+      - path: liang
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
