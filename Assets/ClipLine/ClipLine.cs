@@ -15,6 +15,8 @@ public class ClipLine : MonoBehaviour
     private float distence;
     private Vector4[] posList;
     private float[] distenceList;
+    private int count;
+
     void Start()
     {
         Renderer render = GetComponent<Renderer>();
@@ -71,7 +73,7 @@ public class ClipLine : MonoBehaviour
     void CalcutPoistionList()
     {
         float distenceTemp = 0f;
-        int count = 1;
+        count = 1;
         for (int i = 0; i < distenceList.Length; i++)
         {
             count++;
@@ -84,9 +86,9 @@ public class ClipLine : MonoBehaviour
                     break;
             }
         }
-        posList = new Vector4[count];
+        posList = new Vector4[20];
         int index = 0;
-        for (; index < posList.Length - 1; index++)
+        for (; index < count - 1; index++)
         {
             posList[index] = transform.GetChild(index).localPosition;
             posList[index].w = 1;
@@ -96,11 +98,16 @@ public class ClipLine : MonoBehaviour
     }
     void OnPositionChanged()
     {
-        mat.SetInt("_Count", posList.Length);
-
+        mat.SetInt("_Count", count);
+#if UNITY_5_6_OR_NEWER
+        mat.SetVectorArray("_Pos", posList);
+#elif UNITY_5_3_OR_NEWER
         for (int i = 0; i < posList.Length; i++)
         {
             mat.SetVector("_Pos" + i, posList[i]);
         }
+#endif
+
+
     }
 }
